@@ -9,9 +9,9 @@ const Footer = () => {
         </div>
         <div className="flex items-center gap-3"> 
             <a href="https://github.com/rikzafabraruz-glitch"><i className="ri-github-fill ri-2x"></i></a>
-            <a href="#"><i className="ri-instagram-fill ri-2x"></i></a>
+            <a href="https://www.instagram.com/rkzfdhl"><i className="ri-instagram-fill ri-2x"></i></a>
             <a href="#"><i className="ri-reddit-fill ri-2x"></i></a>
-            <a href="#"><i className="ri-youtube-fill ri-2x"></i></a>
+            <a href="https://www.youtube.com/@gennix06"><i className="ri-youtube-fill ri-2x"></i></a>
         </div>
     </div>
   );
