@@ -17,7 +17,7 @@ function App() {
             <a href="#projek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">Lihat Projek<i className="ri-arrow-down-line ri-lg"></i></a>
           </div>
         </div>
-        <img src={DataImage.HeroImage} alt="Hero Image" className="w-[500px] md:ml-auto" loading="lazy animate__animated animate__fadeInUp animate__delay-3s" />
+        <img src={DataImage.HeroImage} alt="Hero Image" className="w-[400px] md:ml-auto" loading="lazy animate__animated animate__fadeInUp animate__delay-3s" />
       </div>
 
       {/* Tentang */}
