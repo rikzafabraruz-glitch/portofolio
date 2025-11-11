@@ -10,8 +10,8 @@ function App() {
             <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md" loading="lazy" />
             <q>Kode yang indah, lahir dari ketekunan. 🫨</q>
           </div>
-          <h1 className="text-5xl/tight font-bold mb-6">Halo, Saya Rikza Fadhli Abraruz</h1>
-          <p className="text-base/loose mb-6 opacity-50">Saya mempunyai ketertarikan dalam bidang Programming, terutama pada pembuatan Website, ketertarikan pada bidang ini sudah berlangsung lebih dari 1 Tahun untuk semua Bidang.</p>
+          <h1 className="text-5xl/tight font-bold mb-6">Halo! Saya Rikza Fadhli Abraruz</h1>
+          <p className="text-base/loose mb-6 opacity-50">Saya mempunyai ketertarikan yang besar dalam bidang Programming, terutama pada pembuatan Website, ketertarikan pada bidang ini sudah berlangsung lebih dari 1 Tahun untuk semua Bidang.</p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download CV<i className="ri-download-line ri-lg"></i></a>
             <a href="#projek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">Lihat Projek<i className="ri-arrow-down-line ri-lg"></i></a>
@@ -24,7 +24,7 @@ function App() {
       <div className="tentang mt-32 py-10" id="tentang">
         <div className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
         <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md mb-10 sm:hidden" loading="lazy" />
-          <p className="text-base/loose mb-10">Halo! perkenalkan saya Rikza Fadhli Abraruz, seorang Full Stack Web Developer. Saya percaya bahwa fungsionalitas harus berjalan beriringan, sehingga setiap proyek yang saya kembangkan tidak hanya terlihat menarik tetapi juga memberikan pengalaman pengguna yang optimal.</p>
+          <p className="text-base/loose mb-10">Halo,perkenalkan saya Rikza Fadhli Abraruz, seorang Full Stack Web Developer. Saya percaya bahwa fungsionalitas dan tampilan harus seimbang, sehingga sebagai seorang Full Stack Web Developer, setiap proyek yang saya kembangkan tidak hanya memiliki desain yang menarik tetapi juga performa dan pengalaman pengguna yang optimal.</p>
           <div className="flex items-center justify-between">
             <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md sm:block hidden" loading="lazy" />
             <div className="flex items-center gap-6">
