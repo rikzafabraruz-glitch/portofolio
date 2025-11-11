@@ -24,7 +24,7 @@ function App() {
       <div className="tentang mt-32 py-10" id="tentang">
         <div className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
         <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md mb-10 sm:hidden" loading="lazy" />
-          <p className="text-base/loose mb-10">Halo,perkenalkan saya Rikza Fadhli Abraruz, seorang Full Stack Web Developer. Saya percaya bahwa fungsionalitas dan tampilan harus seimbang, sehingga sebagai seorang Full Stack Web Developer, setiap proyek yang saya kembangkan tidak hanya memiliki desain yang menarik tetapi juga performa dan pengalaman pengguna yang optimal.</p>
+          <p className="text-base/loose mb-10">Halo, perkenalkan saya Rikza Fadhli Abraruz, seorang Full Stack Web Developer. Saya percaya bahwa fungsionalitas dan tampilan harus seimbang, sehingga sebagai seorang Full Stack Web Developer, setiap proyek yang saya kembangkan tidak hanya memiliki desain yang menarik tetapi juga performa dan pengalaman pengguna yang optimal.</p>
           <div className="flex items-center justify-between">
             <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md sm:block hidden" loading="lazy" />
             <div className="flex items-center gap-6">
